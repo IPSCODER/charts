@@ -1,0 +1,16 @@
+.header{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-left: 15px;
+    padding-top: 30px;
+    gap: 20px;
+    background-color: #232222;
+}
+
+.header a{
+    color: #fff;
+    font-size: 25px;
+}
